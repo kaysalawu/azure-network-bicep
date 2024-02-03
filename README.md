@@ -1,4 +1,4 @@
-# OPNsense Firewall on FreeBSD VMs
+# OPNsense Firewall on FreeBSD VM
 
 CI Name | Actions Workflow | CI Status |
 |--------|--------|--------|
