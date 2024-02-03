@@ -45,7 +45,7 @@ env:
   scenarioOption: "TwoNics"
   existingvirtualNetwork: "new"
   DeployWindows: false
-  OpnScriptURI: "https://raw.githubusercontent.com/dmauser/opnazure/master/scripts/"
+  OpnScriptURI: "https://raw.githubusercontent.com/kaysalawu/opnazure/master/scripts/"
   DEPNAME: "Dep-OPNsense-newvnet-two-nics-${{ github.run_number }}" #Deployment Name
   AZCLIVERSION: 2.36.0 #Pinning to a specific AZ CLI version
 

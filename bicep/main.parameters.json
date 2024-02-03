@@ -38,7 +38,7 @@
       "value": "Standard"
     },
     "OpnScriptURI": {
-      "value": "https://raw.githubusercontent.com/dmauser/opnazure/master/scripts/"
+      "value": "https://raw.githubusercontent.com/kaysalawu/opnazure/master/scripts/"
     },
     "ShellScriptName": {
       "value": "configureopnsense.sh"

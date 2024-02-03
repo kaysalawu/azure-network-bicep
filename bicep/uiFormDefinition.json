@@ -98,14 +98,14 @@
               "name": "OpnScriptURI",
               "type": "Microsoft.Common.TextBox",
               "label": "URL for OPNSense scritps. All required scripts will be downloaded from this URL and must end with /.",
-              "toolTip": "All scripts must be under this URL path, check the expected content under scripts folder in https://github.com/dmauser/opnazure/tree/master/scripts.",
-              "defaultValue": "https://raw.githubusercontent.com/dmauser/opnazure/master/scripts/"
+              "toolTip": "All scripts must be under this URL path, check the expected content under scripts folder in https://github.com/kaysalawu/opnazure/tree/master/scripts.",
+              "defaultValue": "https://raw.githubusercontent.com/kaysalawu/opnazure/master/scripts/"
             },
             {
               "name": "ShellScriptName",
               "type": "Microsoft.Common.TextBox",
               "label": "Bootstrap script name to deploy OPNSense",
-              "toolTip": "The script must be under the previous URL path. Reference: https://github.com/dmauser/opnazure/blob/master/scripts/configureopnsense.sh",
+              "toolTip": "The script must be under the previous URL path. Reference: https://github.com/kaysalawu/opnazure/blob/master/scripts/configureopnsense.sh",
               "defaultValue": "configureopnsense.sh"
             },
             {
